@@ -1,6 +1,4 @@
-## The Geometric Origin of Grokking:
-
-### Accelerating Generalization via Active Structural Reorganization
+## This is the code for the paper "The Geometric Origin of Grokking: Accelerating Generalization via Active Structural Reorganization", accepted by ICML 2026.
 
 This repository provides the implementation of **R2G (Repel-to-Grokking) Loss**, proposed in *The Geometric Origin of Grokking*, and the corresponding experimental code for both **modular arithmetic tasks** and the **tense-inflection task**.
 
